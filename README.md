@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou a Alice Cabral!</h1>
 <h3 align="center">Desenvolvedora Front-End</h3>
 
-- 👨‍💻 All of my projects are available at [https://alicecabral.com.br/](https://alicecabral.com.br/)
+- 👨‍💻 Meus projetos estão disponívels no meu portfólio [https://alicecabral.com.br/](https://alicecabral.com.br/)
 
-- 📫 How to reach me **alicecamarques@gmail.com**
+- 📫 Contato **alicecamarques@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
