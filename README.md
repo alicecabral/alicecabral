@@ -3,7 +3,7 @@
 
 - 👨‍💻 Meus projetos estão disponívels no meu portfólio [https://alicecabral.com.br/](https://alicecabral.com.br/)
 
-- 📫 Contato **alicecamarques@gmail.com**
+- 📫 Contato alicecamarques@gmail.com
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
