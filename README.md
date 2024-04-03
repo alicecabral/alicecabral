@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋 Eu sou a Alice Cabral!</h1>
+<h1 align="center">Oi 👋 Eu sou a Alice!</h1>
 <h3 align="center">Desenvolvedora Front-End</h3>
 
 <img src="https://github.com/alicecabral/alicecabral/assets/64849779/974165fa-a0e0-4be2-8053-20041b7ee37c" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
