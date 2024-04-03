@@ -17,9 +17,6 @@ Com conhecimento em psicologia e computação, busco desenvolver interfaces web 
 </p>
 
 <p align="left">
-  <a href="alicecamarques@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=alicecamarques@gmail.com" alt="Gmail"/></a>
-  <a href="linkedin.com/in/alice-cabral" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/alice-cabral" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/linkedin.com/in/alice-cabral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alice-cabral/" height="30" width="40" /></a>
 </p>
 
