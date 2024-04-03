@@ -9,7 +9,7 @@ Com conhecimento em psicologia e computação, busco desenvolver interfaces web 
 </p>
 
 <p align="left">
-  ⌨️ Linguagens e Ferramentas:<br>
+  ⌨️ Linguagens e Ferramentas:<br><br>
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" />
   <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
