@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Profissional com 2 anos de experiência no mercado de desenvolvimento de software, majoritariamente na área de front-end. Trabalhei desenvolvendo aplicações para times de marketing e para empresas internacionais, utilizando principalmente <strong>HTML, CSS, JavaScript, Vue, Nuxt e React</strong>.<br>
+Profissional com 2 anos de experiência no mercado de desenvolvimento de software, majoritariamente na área de front-end. Trabalhei desenvolvendo aplicações para times de marketing e para empresas internacionais, utilizando principalmente <strong>HTML, CSS, JavaScript, Vue, Nuxt e React</strong>.<br><br>
 Com conhecimento em psicologia e computação, busco desenvolver interfaces web que impactem o usuário, sempre harmonizando funcionalidade e estética.
 </p>
 
