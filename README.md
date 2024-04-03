@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou a Alice Cabral!</h1>
 <h3 align="center">Desenvolvedora Front-End</h3>
 
-- 👨‍💻 Meus projetos estão disponívels no meu portfólio [https://alicecabral.com.br/](https://alicecabral.com.br/)
+- 👨‍💻 Veja meu portfólio [https://alicecabral.com.br/](https://alicecabral.com.br/)
 
 - 📫 Contato alicecamarques@gmail.com
 
