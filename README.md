@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋 Eu sou a Alice Cabral!</h1>
 <h3 align="center">Desenvolvedora Front-End</h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="(https://github.com/alicecabral/alicecabral/assets/64849779/974165fa-a0e0-4be2-8053-20041b7ee37c" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 Profissional com 2 anos de experiência no mercado de desenvolvimento de software, majoritariamente na área de front-end. Trabalhei desenvolvendo aplicações para times de marketing e para empresas internacionais, utilizando principalmente <strong>HTML, CSS, JavaScript, Vue, Nuxt e React</strong>.<br><br>
