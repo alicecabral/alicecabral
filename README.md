@@ -4,8 +4,8 @@
 <img src="https://github.com/alicecabral/alicecabral/assets/64849779/974165fa-a0e0-4be2-8053-20041b7ee37c" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Profissional com 2 anos de experiência no mercado de desenvolvimento de software, majoritariamente na área de front-end. Trabalhei desenvolvendo aplicações para times de marketing e para empresas internacionais, utilizando principalmente <strong>HTML, CSS, JavaScript, Vue, Nuxt e React</strong>.<br><br>
-Com conhecimento em psicologia e computação, busco desenvolver interfaces web que impactem o usuário, sempre harmonizando funcionalidade e estética.
+Profissional com 2 anos e meio de experiência no mercado de desenvolvimento de software, majoritariamente na área de desenvolvimento web e front-end. Já trabalhei em projetos para times de marketing e empresas internacionais, utilizando principalmente <strong>HTML, CSS, JavaScript, Vue, Angular e React</strong>.<br><br>
+Combinando conhecimento em Psicologia e Computação, busco desenvolver aplicações web que impactem o usuário, sempre equilibrando usabilidade, performance e estética.
 </p>
 
 <p align="left">
